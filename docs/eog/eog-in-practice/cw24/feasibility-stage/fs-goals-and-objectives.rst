@@ -31,9 +31,9 @@ Objectives
      - Identify training and education around citizen science.
      - Understand the role of research software in citizen science projects.
         
- - Promote the Institute's goals and activities related to the theme of Environmental Sustainability such as the CW23 hack day project Climate-Aware Task Scheduler and recent discussions around the environmental impact of research computing. 
- - Promote the Institute's goals and activities related to the theme of AI/ML tools for science such as introductory training on Machine Learning with Scikit Learn and Python and Making machine learning in research reproducible as well as recent discussions on how AI and LLMs might change the role of RSEs. 
- - Promote the Institute's goals and activities related to the theme of Citizen Science such as relevant Code for Thought episodes and Homes Under the Microscope.
+ - Promote the Institute's goals and activities related to the theme of Environmental Sustainability such as the CW23 hack day project `Climate-Aware Task Scheduler <https://github.com/GreenScheduler/cats>`_ and recent `discussions around the environmental impact of research computing <https://software.ac.uk/blog/2023-08-15-tracking-environmental-impact-research-computing>`_. 
+ - Promote the Institute's goals and activities related to the theme of AI/ML tools for science such as introductory training `on Machine Learning with Scikit Learn and Python <https://github.com/carpentries-incubator/machine-learning-novice-sklearn>`_ and `Making machine learning in research reproducible <https://software.ac.uk/blog/2023-02-13-how-increase-citations-ease-reviews-and-facilitate-collaboration-ml-applied-science>`_ as well as `recent discussions on how AI and LLMs might change the role of RSEs <https://software.ac.uk/blog/2023-08-17-how-will-advances-generative-ai-and-large-language-models-aid-software>`_. 
+ - Promote the Institute's goals and activities related to the theme of Citizen Science such as relevant `Code for Thought episodes <https://software.ac.uk/news/new-code-thought-episode-citizen-science-and-software>`_ and `Homes Under the Microscope <https://homesunderthemicroscope.co.uk/>`_.
  - Relevant discussion topics related to the themes that are not discussed at CW24 can be brought into the SSI Fellow's Community Calls, Research Software Camps, and other Institute activities for further work.
 
 Social
