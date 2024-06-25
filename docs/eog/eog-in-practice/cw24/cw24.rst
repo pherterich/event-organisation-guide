@@ -11,7 +11,7 @@ The Collaborations Workshop (CW) is the annual flagship event of the `Software S
 
 Following a successful hybrid CW23, it was decided from the beginning that Collaborations Workshop 2024 (CW24) would be a hybrid event again to maintain accessibility of the event to people who were unable to attend in person and continue to innovate and trial within a hybrid event space to provide guidance and advice on running hybrid events to our community.
 
-This In Practice write up covers how we organised CW24, following the steps in the Feasibility Stage and the Event Project Stage of the SSI’s Event Organisation Guide.
+This In Practice write up covers how we organised CW24, following the steps in the `Feasibility Stage <https://event-organisation-guide.readthedocs.io/en/latest/eog/feasibility-stage.html>`_ and the Event Project Stage of the SSI’s Event Organisation Guide.
 
 If you are interested in the experience of attending CW24 or history of CWs, the Code for Thought podcast released `an episode reporting on the event <https://codeforthought.buzzsprout.com/1326658/15045013-en-collaborations-workshop-2024>`_ and there was a `blog post written <https://www.software.ac.uk/blog/research-it-collaborations-workshop-2024>`_ by members of the University of Manchester Research IT team.
 
