@@ -32,19 +32,19 @@ In general, the following audiences were targeted as CW24 participants.
  - Research support staff
 
 Example Communities to reach out included:
-- `CSCCE <https://www.cscce.org/>`_
-- `GLAM Data Science Network <GLAM Data Science Network>`_
-- `UoM eScience Lab <https://esciencelab.org.uk/>`_
-- `NL eScience Centre <https://www.esciencecenter.nl/>`_
-- `OLS <https://we-are-ols.org/>`_
-- `RDA FAIR4RS Working Group <https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg>`_
-- `ReSA<https://www.researchsoft.org/>`_
-- `RSE <https://society-rse.org/>`_ (UK, US, NL, DE, etc...)
-- `The Carpentries <https://carpentries.org/>`_
-- `The Turing Way <https://github.com/alan-turing-institute/the-turing-way>`_
-- `UKRI <https://www.ukri.org/about-us/equality-diversity-and-inclusion/>`_
-- `UKRN <https://www.ukrn.org/>`_
-- `Women in HPC <https://womeninhpc.org/>`_
+ - `CSCCE <https://www.cscce.org/>`_  
+ - `GLAM Data Science Network <GLAM Data Science Network>`_  
+ - `UoM eScience Lab <https://esciencelab.org.uk/>`_  
+ - `NL eScience Centre <https://www.esciencecenter.nl/>`_  
+ - `OLS <https://we-are-ols.org/>`_  
+ - `RDA FAIR4RS Working Group <https://www.rd-alliance.org/groups/fair-4-research-software-fair4rs-wg>`_  
+ - `ReSA <https://www.researchsoft.org/>`_  
+ - `RSE <https://society-rse.org/>`_ (UK, US, NL, DE, etc...)  
+ - `The Carpentries <https://carpentries.org/>`_  
+ - `The Turing Way <https://github.com/alan-turing-institute/the-turing-way>`_  
+ - `UKRI <https://www.ukri.org/about-us/equality-diversity-and-inclusion/>`_  
+ - `UKRN <https://www.ukrn.org/>`_  
+ - `Women in HPC <https://womeninhpc.org/>`_  
 
 
 Below we discuss specific additional audiences, communities and job roles to target related to the themes of CW24. 
