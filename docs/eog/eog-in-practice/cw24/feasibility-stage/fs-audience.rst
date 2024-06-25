@@ -12,8 +12,6 @@ The geographic location of the CW target audience is the UK/Europe.
 As CW24 was hybrid, the target audience's geographic location was not limited except by time zone - participants in Europe, Africa and eastern time zones of North and South America were more likely to participate remotely in a UK-working day event. 
 This allowed us to continue to provide the opportunity to invite changemakers who would not normally be able to travel to the UK, and make the event more accessible. 
 We also aimed to engage people in other timezones in the discussions through social media and sharing of outputs.
-Below we discuss specific audiences, communities and job roles to target related to the themes of CW21. 
-We will encourage connections within these communities to reach out to their communities so that the recommendation/promotion comes from a trusted member and is more likely to be actioned.
 
 The typical number of participants at CWs in the past have been 80-90 for in-person CWs and 90-110 for online CWs. 
 The number of participants needed to be capped to ensure equitable participation for both types of attendee and limitations set by the venue, and an initial estimate was to facilitate 90-100 in-person and 30-40 remote participants, i.e. a total of 120-140 participants. 
