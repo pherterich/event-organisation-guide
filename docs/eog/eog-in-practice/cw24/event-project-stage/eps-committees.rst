@@ -68,7 +68,7 @@ Before the event, we sent the following to CoC Committee members to read through
 - The `Attendee Procedure for Reporting Harassment <https://www.software.ac.uk/cw24-attendee-procedure-reporting-harassment>`_
 - The `Staff Procedure For Handling Reported Harassment <https://www.software.ac.uk/cw24-staff-procedure-handling-reported-harassment>`_
 
-All of these materials were made available within the `CW24 Participation Guidelines<https://www.software.ac.uk/cw24-participation-guidelines>`_ which participants had to have read and agreed to abide by at registration.
+All of these materials were made available within the `CW24 Participation Guidelines <https://www.software.ac.uk/cw24-participation-guidelines>`_ which participants had to have read and agreed to abide by at registration.
 
 During the event, we had a private Slack channel in the CW24 Slack workspace for CoC Committee members in case any incidents arose. 
 No misconduct was reported from CW24.
