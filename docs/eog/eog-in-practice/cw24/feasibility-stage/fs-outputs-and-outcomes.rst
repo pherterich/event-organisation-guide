@@ -21,9 +21,10 @@ Outputs
 - Feedback into Event Organisation Guide (e.g. as an In Practice chapter)
 
 The following outputs were aspirational as they require more effort from the team. 
-They were likely to happen if CW24 ran at the end of February 2024, but with the event happening at the end of April 2024 these ended up getting dropped as the organising team moved on.
- - Collaborative Ideas to be recorded via https://github.com/softwaresaved/CW-ideas
- - Manually checked captions and transcriptions
+They were likely to happen if CW24 ran at the end of February 2024, but with the event happening at the end of April 2024 these ended up getting dropped as the organising team moved on.  
+
+- Collaborative Ideas to be recorded via https://github.com/softwaresaved/CW-ideas
+- Manually checked captions and transcriptions
 
 Outputs
 --------------------
