@@ -33,27 +33,27 @@ Event management
 Video conferencing
 ^^^^^^^^^^^^^^^^^^^
 
-- `Zoom Events <https://www.zoom.com/en/products/event-platform/>`_: For the first time, we used Zoom Events as our video conferencing and management platform. The organisers and attendees were confident in using Zoom meetings from previous years and we used Zoom Events for the following additional features:
+- `Zoom Events <https://www.zoom.com/en/products/event-platform/>`_: For the first time, we used Zoom Events as our video conferencing and management platform. The organisers and attendees were confident in using Zoom meetings from previous years and we used Zoom Events for the following additional features:  
 
- - Sessions: Providing an agenda with direct join links for each session instead of creating many Zoom rooms from multiple individual Zoom accounts.
- - Roles and permissions: Zoom Events made it easy to add additional hosts to various sessions which made it easy to give mini-workshop facilitators host rights for their sessions.
- - Recording replay: Recorded sessions are immediately available for event attendees to rewatch.
+  - Sessions: Providing an agenda with direct join links for each session instead of creating many Zoom rooms from multiple individual Zoom accounts.
+  - Roles and permissions: Zoom Events made it easy to add additional hosts to various sessions which made it easy to give mini-workshop facilitators  host rights for their sessions.
+  - Recording replay: Recorded sessions are immediately available for event attendees to rewatch.
 
 Zoom Events provides additional features for sponsors and registration that we did not explore at this point. As it was a new platform for attendees, we created a guide on registering and using Zoom Events that we send to registered participants ahead of the event. Feedback on using Zoom Events was mixed with some attendees finding it easy to navigate and especially in-person attendees struggling to join sessions quickly.
 
 - `YouTube <https://www.youtube.com/>`_: Following CW21, CW22, and CW23 we planned to live stream the `keynote and panel presentations and Q&A <https://www.youtube.com/@SoftwareSaved/streams>`_ via the `SSI YouTube channel <https://www.youtube.com/user/SoftwareSaved>`_.
 
- - The live streams were set up beforehand in Zoom Events and Youtube. Due to the unforeseen fact that the live streams could only be started by the main host account, and unknown technical difficulties, we were only able to stream two keynote talks. 
- - The process, including learnings in hindsight, has been documented in a `livestream guide <https://docs.google.com/document/d/1lZTF9lytgg6wFP7atfr691octRc3wfdn7Epki9Hq2ms/edit?usp=sharing>`_.
- - YouTube was also used to share the session recordings after the event.
+  - The live streams were set up beforehand in Zoom Events and Youtube. Due to the unforeseen fact that the live streams could only be started by the main host account, and unknown technical difficulties, we were only able to stream two keynote talks. 
+  - The process, including learnings in hindsight, has been documented in a `livestream guide <https://docs.google.com/document/d/1lZTF9lytgg6wFP7atfr691octRc3wfdn7Epki9Hq2ms/edit?usp=sharing>`_.
+  - YouTube was also used to share the session recordings after the event.
 
 Chat 
 ^^^^^^^^^^^^
 - `Slack <https://slack.com/>`_: We used Slack as our primary chat platform, as it persists (free for 90 days at the time of writing) outside the Zoom meeting room chat sessions which is helpful for maintaining access to resources shared, referencing discussions and facilitating community engagement.
 
- - We created practical channels for event organisation and communication, such as a #help-desk channel for participants to direct their technical issues to, and #introductions for participants to introduce themselves.
- - Private backchannels were created for the Code of Conduct Committee, and Hack Day judges.
- - Participants were able to create their own channels for their own use such as for their Discussion session groups and Hack Day teams, and also created more informal channels such as #pets for sharing photos of pets.
+  - We created practical channels for event organisation and communication, such as a #help-desk channel for participants to direct their technical issues to, and #introductions for participants to introduce themselves.
+  - Private backchannels were created for the Code of Conduct Committee, and Hack Day judges.
+  - Participants were able to create their own channels for their own use such as for their Discussion session groups and Hack Day teams, and also created more informal channels such as #pets for sharing photos of pets.
 
 - `Sli.do <https://www.sli.do/>`_: We used a professional subscription of Sli.do for audience Q&A and engagement during the keynotes and the panel session. We also set up instances for use by the mini-workshop and demo session facilitators.
 
@@ -62,9 +62,9 @@ Collaborative documents
 
 - `Google Docs <https://docs.google.com/>`_: We used Google Docs as our primary platform for collaborative note-taking and keeping everyone synchronised.
 
- - We created a main document for each day which contained that day's agenda (which linked to other sections of the doc with information and space for note-taking and questions for each session) and other important links, participation guidelines, guidance and instructions, roll call, space for feedback, and a disclaimer in the header asking participants not to share any links publicly during the event (see `the collaborative document for CW24 Day 1 here <https://bit.ly/ssi-cw24-day1-notes-eog>`_).
- - We added a licence (`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_) to all of the Google Docs generated for CW24 so that participants would know how they could be used going forward.
- - We chose Google Docs because it has a low barrier to accessibility (no need to log in or register and you do not need to know specific syntax or markdown language) and allows many people to easily work together. We encountered issues with Google Docs reducing some collaborative functionalities when many people tried to edit the same document. Furthermore, Google Docs is not accessible to screen readers or voice controlled devices and we empowered participants to use any platform that worked best for their needs with some groups using `HackMD <https://hackmd.io/>`_.
+  - We created a main document for each day which contained that day's agenda (which linked to other sections of the doc with information and space for note-taking and questions for each session) and other important links, participation guidelines, guidance and instructions, roll call, space for feedback, and a disclaimer in the header asking participants not to share any links publicly during the event (see `the collaborative document for CW24 Day 1 here <https://bit.ly/ssi-cw24-day1-notes-eog>`_).
+  - We added a licence (`CC BY 4.0 <https://creativecommons.org/licenses/by/4.0/>`_) to all of the Google Docs generated for CW24 so that participants would know how they could be used going forward.
+  - We chose Google Docs because it has a low barrier to accessibility (no need to log in or register and you do not need to know specific syntax or markdown language) and allows many people to easily work together. We encountered issues with Google Docs reducing some collaborative functionalities when many people tried to edit the same document. Furthermore, Google Docs is not accessible to screen readers or voice controlled devices and we empowered participants to use any platform that worked best for their needs with some groups using `HackMD <https://hackmd.io/>`_.
 
  
 Resources
@@ -91,16 +91,18 @@ Participant-facing
 
 - Collaborative notes documents for each day of the event (with agenda) to guide participants through the event, provide another pathway to engagement and compile questions, notes and outputs from the event:
 
-   - `CW24 Day 1 Notes <https://bit.ly/ssi-cw24-day1-notes-eog>`_
-   - `CW24 Day 2 Notes <https://bit.ly/ssi-cw24-day2-notes-eog>`_
-   - `CW24 Hack Day Notes <https://bit.ly/ssi-cw24-hack-day-notes-eog>`_
+  * `CW24 Day 1 Notes <https://bit.ly/ssi-cw24-day1-notes-eog>`_
+  * `CW24 Day 2 Notes <https://bit.ly/ssi-cw24-day2-notes-eog>`_
+  * `CW24 Hack Day Notes <https://bit.ly/ssi-cw24-hack-day-notes-eog>`_
 
 - A template document for the Discussion group session and 26 instances generated in uCONFLY.
 - A template document for the Collaborative Ideas session and 26 instances generated in uCONFLY.
 - A template document for the Mini-workshop and demo sessions and 15 instances generated in uCONFLY.
 - A template document for the Hack Day pitches and 26 instances generated in uCONFLY.
 - A spreadsheet to collate the Discussion group session topics and documents, and facilitate group sign-up.
-- We were able to reuse the setup from CW23 which adapted the spreadsheet for a hybrid event by pre-assigning Group IDs to spaces, each with an in-person location and an associated Zoom breakout room. We asked remote participants to include "(R)" at the end of their names when they signed up to discussion topics. We assessed the groups as they formed, and assigned hybrid groups to in-person spaces that were set up for hybrid group work.
+
+  - We were able to reuse the setup from CW23 which adapted the spreadsheet for a hybrid event by pre-assigning Group IDs to spaces, each with an in-person location and an associated Zoom breakout room. We asked remote participants to include "(R)" at the end of their names when they signed up to discussion topics. We assessed the groups as they formed, and assigned hybrid groups to in-person spaces that were set up for hybrid group work.
+
 - A spreadsheet to collate the Collaborative Ideas session documents and group assignments.
 - A spreadsheet to collate the Hack Day pitch documents.
 - A spreadsheet to facilitate Hack Day teams registration and sign-up.
