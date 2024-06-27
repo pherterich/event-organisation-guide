@@ -145,6 +145,105 @@ Collaborative notes documents and other unconference infrastructure resources sh
 - `CW24 Hack Day Notes <https://bit.ly/ssi-cw24-hack-day-notes-eog>`_
 - Feedback into Event Organisation Guide (this In Practice on CW24)
 
+Outcomes
+--------------------
+
+Facilitation of new collaborations between participants
+^^^^^^^^^^^^^^^^^^^^^^
+Feedback from CW24 participants highlighted that 25% of respondents met more than 14 new people at the workshop. 
+68.8% of respondents started or planned to start at least 2 collaborations based on conversations they had at CW24 and 76.2% of respondents that participated in the Hack Day intended to carry on working on their idea.
+
+.. figure:: ..docs/eog/eog-in-practice/cw24/img/CW24_feedback_new_people.png
+  :alt: Pie chart of feedback from CW24 participants on how many new people they met at CW24
+
+*Feedback from CW24 participants on how many new people they met at CW24*
+
+.. figure:: ..docs/eog/eog-in-practice/cw24/img/CW24_feedback_new_collaborations.png
+  :alt: Pie chart of feedback from CW24 participants on how many collaborations did they start, or intend to start, based on conversations from CW24
+
+*Feedback from CW24 participants on how many collaborations did they start, or intend to start, based on conversations from CW24*
+
+.. figure:: ..docs/eog/eog-in-practice/cw24/img/CW24_feedback_HackDay_follow_up.png
+  :alt: Pie chart of feedback from CW24 participants on whether they intend to carry on working on the idea they developed at the CW24 Hack Day
+
+*Feedback from CW24 participants on whether they intend to carry on working on the idea they developed at the CW24 Hack Day*
+
+Increase in knowledge and confidence around the themes of the workshop by those who participated
+^^^^^^^^^^^^^^^^^^^^^^
+Feedback from CW24 participants indicates that workshop participants have increased their knowledge on all workshop themes. 
+None of the 32 respondents to the feedback form considered their knowledge as very low after attending CW24 and low understanding was at 3.1% (Environmental Sustainability) and 6.2% (Citizen Science, AI/ML tools in science). 
+62.5% of respondents estimated their understanding of the theme of Environmental Sustainability as high or very high after attending CW24. 
+The average score rose from 2.75 to 3.75 (with 1 being the lowest score and 5 indicating very high confidence).  
+For the theme of AI/ML tools in science, 43.8% of respondents set their understanding at high or very high after attending CW24 with the average confidence score increasing from 3.03 to 3.4. 
+With regard to the theme of Citizen Science, 59.4% of respondents considered their confidence in the understanding of the theme high or very high. 
+The average score rose from 3.15 to 3.65.
+
+.. figure:: ..docs/eog/eog-in-practice/cw24/img/CW24_feedback_EnvironmentalSustainability_knowledge.png
+  :alt: Bar chart of feedback from CW24 participants on how their confidence and understanding of environmental sustainability with regards to research software changed through attending CW24
+
+*Feedback from CW24 participants on how their confidence and understanding of environmental sustainability with regards to research software changed through attending CW24*
+
+.. figure:: ..docs/eog/eog-in-practice/cw24/img/CW24_feedback_AIML_knowledge.png
+  :alt: Bar chart of feedback from CW24 participants on how their confidence and understanding of AI/ML tools in science changed through attending CW24
+
+*Feedback from CW24 participants on how their confidence and understanding of AI/ML tools in science changed through attending CW24*
+
+.. figure:: ..docs/eog/eog-in-practice/cw24/img/CW24_feedback_CitizenScience_knowledge.png
+  :alt: Bar chart of feedback from CW24 participants on how their confidence and understanding of Citizen Science changed through attending CW24
+
+*Feedback from CW24 participants on how their confidence and understanding of Citizen Science changed through attending CW24*
+
+Increased accessibility and inclusion
+^^^^^^^^^^^^^^^^^^^^^^
+We used integrated Zoom captions and otter.ai to provide live transcriptions as that has proved successful in previous Collaboration Workshops. 
+Comments from participants on this included 
+*“Helpful when audio was poor, but difficult to be in a separate window. I appreciate that otter.ai is better for screen reading tools.”* and *“The quality of the captioning and the delay made it unpleasant to use for me. I'm hoping to see improved live captioning engines soon but this one was still too rough IMO.”* 
+
+For future events, live captioning services might need to be reassessed to see if there are better options available. 
+If additional budget is available, having a person to transcribe live or correct an automated transcript might be an additional improvement.
+
+A new focus to increase accessibility and inclusion was to offer attendees childcare support. 
+This ranged from paying for babysitters to paying travel and accommodation costs for partners and children to stay at the event venue.
+This was immensely appreciated by attendees as their appreciation posts on the CW24 Slack showed.
+
+.. figure:: ..docs/eog/eog-in-practice/cw24/img/CW24accessibilitysupport_redacted.png
+  :alt: Slack message saying “Sorry for the broad posting. My daughter and I are eating some chips and hummus in the lounge in Radcliffe if anyone wants to say hello. We’ll miss the dinner as it’s baby bedtime but be back tomorrow! Huge thank you to the organisers for paying for [name redacted]’s babysitter for these 3 days. Amazing accessibility support :heart: :heart:” and answer to the 
+Slack message stating “A big thank you on this front also from us :family:.  It's been wonderful to be able to bring my daughter and partner along to CW :green_heart:. (We missed chips & hummus as we were walking my daughter to sleep in the bluebell woods)”
+
+*Feedback from CW24 participants on Slack on the childcare support received*
+
+Community members who are unable to attend the event are still able to engage with the discussion
+^^^^^^^^^^^^^^^^^^^^^^
+
+We live streamed two of the keynotes which allowed people that did not attend the full event to follow some of the discussions live without having to pay for registration. 
+Having those streams available also allowed attendees to immediately share interesting talks to their networks.
+
+Innovation within the domain of hybrid events
+^^^^^^^^^^^^^^^^^^^^^^
+Following a successful CW23, we did not add new hybrid aspects to the event but rather refined the technical choices for hybrid interactive sessions by making more use of smaller group setups and OWLs. 
+As some of the feedback below showed, this worked well and showed that hybrid events do not need expensive equipment but thoughtful preparation and willingness of attendees to be inclusive.
+
+ “Huge thank you to the organisers for their efforts in making the event truly participatory in a hybrid format. Our workshop went really smoothly with one group discussing co-creation online and 4 tables of discussion in the room! Well done!!“
+
+ “Hybrid worked very well and although I was in person found it easy to interact with online attendees via the OWL camera/speaker.”
+
+ “The OWL tech is a winner for hybrid collaboration.”
+
+Ease of running a hybrid CW again in the future
+^^^^^^^^^^^^^^^^^^^^^^
+According to the participants that answered our feedback survey after the event, hybrid is the preferred format option for future Collaboration Workshops.
+
+.. figure:: ..docs/eog/eog-in-practice/cw24/img/CW24_feedback_future_CWs.png
+  :alt: Feedback from CW24 participants on their preference for the format of future CWs
+
+*Feedback from CW24 participants on their preference for the format of future CWs*
+
+With the organisational processes and lessons learnt documented within this In Practice section and the knowledge being spread across several Institute staff members, running future Collaborations Workshops hybrid should be possible with minor modifications.
+
+Impact on hybrid events run by others
+^^^^^^^^^^^^^^^^^^^^^^
+In addition to publishing this resource for other event organisers to use and learn from, we actively contributed to an `analysis run by the Research Software Alliance on existing events for the research software community <https://doi.org/10.5281/zenodo.10927376>`_.
+
 
 
 
