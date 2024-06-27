@@ -153,3 +153,81 @@ Month -5: December 2023
 
   - Get quotes for workshop dinner
   - View potential workshop dinner venues
+
+Month -4: January 2024
+^^^^^^^^^^^^^^^^^^^^^^
+**CW Chair**
+
+- Agenda
+
+  - Keynotes
+
+    - Compile shortlist of keynote panel speakers
+    - Email possible keynote speakers and panellists
+
+  - Call for mini-workshop/demo sessions and lightning talks
+
+- Registration
+
+  - Open call for financial assistance scholarships 
+
+- Committees
+
+  - Steering
+
+    - Draft 2nd meeting notes and agenda
+    - Email 2nd meeting notes and reminder to members
+    - 2nd meeting
+    - Create Doodle Poll for 3rd meeting
+    - Email update of any major progress
+
+- Sponsorship
+
+  - Invite organisations to partner
+  - Hand over sponsorship leads to Logistics Lead
+
+- Website
+
+  - Event landing page
+
+    - Add provisional Agenda
+    - Add Steering Committee page
+    - Add Lightning Talks page
+    - Add Discussion Session page
+    - Add Collaborative Ideas page
+    - Add Hack Day page
+
+**Publicity Lead**
+
+- Publicity
+
+  - Announce that registration is open
+  - Publish news item on call for mini-workshop and lightning talk proposals (work with CW Chair)
+  - Publicity emails
+
+**Logistics Lead**
+
+- Registration
+
+  - Adjust weekly update to planner document from registrations
+  - Support international participants with visa applications
+
+- Sponsorship
+
+  - Work through Sponsorship spreadsheet and invite organisations to partner
+  - Negotiate contracts with sponsors
+
+- Venue
+
+  - Get quotes for workshop dinner
+  - Organise meeting with venue to discuss details of setup and services
+
+- AV
+
+  - Confirm contract with AV supplier (if a supplier is used)
+
+**Technical Lead**
+
+- AV Equipment
+
+  - Finalise requirement for AV equipment with supplier (with Logistics Lead)
