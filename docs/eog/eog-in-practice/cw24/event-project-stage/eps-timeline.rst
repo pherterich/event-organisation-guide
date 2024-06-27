@@ -231,3 +231,70 @@ Month -4: January 2024
 - AV Equipment
 
   - Finalise requirement for AV equipment with supplier (with Logistics Lead)
+
+Month -3: February 2024
+^^^^^^^^^^^^^^^^^^^^^^
+**CW Chair**
+
+- Agenda
+
+  - Keynotes and panels
+
+    - Follow up with speaker invitations and budget speaker expenses
+
+  - Mini-workshop and demo sessions
+
+    - Deadline reminder for mini-workshop and demo session proposals
+    - Prepare scripts for reviewing proposals
+    - Prepare scripts for communication to proposers 
+
+  - Lightning talks
+
+    - Deadline for lightning talk proposals
+    - Prepare scripts for reviewing proposals
+    - Prepare scripts for communication to proposers 
+
+- Committees
+
+  - Steering
+
+    - Create Doodle Poll for 3rd meeting
+    - Email update of any major progress
+
+  - Organising
+
+    - Send event roles around for staff to start thinking about roles
+
+- Registration
+
+  - Review financial assistance applications 
+  - Offer financial assistance awards to successful applicants
+
+- Website
+
+  - Add Accommodation information
+
+**Publicity Lead**
+
+- Submission deadline reminder news item
+- Publicity emails
+- Arrange photographer (maybe with Logistics Lead)
+
+**Logistics Lead**
+
+- Social Programme
+
+  - Confirm contract with Workshop Dinner venue
+  - Select menu items for workshop dinner
+
+- Venue
+
+  - Organise meeting with A/V supplier to discuss details of setup and services
+
+**Technical Lead**
+
+- Infrastructure
+
+  - Set up Zoom Events
+  - Confirm Otter.ai accounts
+  - Confirm Sli.do account
