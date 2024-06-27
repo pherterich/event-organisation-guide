@@ -3,7 +3,7 @@
 Collaborations Workshop 2021 (CW21) - Online 
 =============================================
 
-In Practice authors: Patricia Herterich (`ORCID <https://orcid.org/0000-0002-4542-9906>`__), Graeme Smith, Aleksandra Nenadic (`ORCID <https://orcid.org/0000-0002-2269-3894>`__), Oscar Seip (`ORCID <https://orcid.org/0000-0002-8503-2698>`__), Denis Barclay (`ORCID <https://orcid.org/0009-0008-5567-3786>`__), Shoaib Sufi (`ORCID <https://orcid.org/0000-0001-6390-2616>`__), Kathleen Glass
+In Practice authors: Patricia Herterich (`ORCID <https://orcid.org/0000-0002-4542-9906>`__), Graeme Smith, Aleksandra Nenadic (`ORCID <https://orcid.org/0000-0002-2269-3894>`__), Oscar Seip (`ORCID <https://orcid.org/0000-0002-8503-2698>`__), Denis Barclay (`ORCID <https://orcid.org/0009-0008-5567-3786>`__), Shoaib Sufi (`ORCID <https://orcid.org/0000-0001-6390-2616>`__), Kathleen Glass, Mario Antonioletti (`ORCID <https://orcid.org/0000-0002-2486-7990>`__)
 
 Based on the draft for CW23 created by Rachael Ainsworth (`ORCID <http://orcid.org/0000-0003-2591-9462>`__)
 
