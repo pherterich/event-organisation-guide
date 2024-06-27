@@ -120,3 +120,8 @@ We assigned the following roles to staff:
   - Podcast liaison  
   - Have # tags for the event ready to be shared at the start of the event  
   - Live X’ing (have a certain number of X posts ready to be copy-pasted at appropriate times in addition to ad hoc ones)  
+
+After the event
+-------------------
+CW24 Timeline provides a detailed breakdown of tasks in the post event phase and when they took place. 
+Due to the end of SSI 3 funding, we reallocated many tasks that were initially CW24 Chair responsibilities to other team members in the organising team to ensure the event was wrapped up in a timely manner.
